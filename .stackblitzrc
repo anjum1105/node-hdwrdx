@@ -1,0 +1,4 @@
+{
+  "installDependencies": true,
+  "startCommand": "cd angular-fourteen-routing && npm i && turbo start"
+}
